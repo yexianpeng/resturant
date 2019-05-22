@@ -28,4 +28,8 @@ public class TestAll {
 		User user=userService.findById(3);
 		System.out.println(user);
 	}
+	@Test
+	public void testFindMeau(){
+		
+	}
 }
