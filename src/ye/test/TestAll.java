@@ -32,4 +32,8 @@ public class TestAll {
 	public void testFindMeau(){
 		
 	}
+	@Test
+	public void testList(){
+		
+	}
 }
